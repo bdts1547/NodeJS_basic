@@ -48,3 +48,16 @@ table {
   
   tr:hover {background-color: coral;}
 
+
+.create-user-container {
+    margin: 16px;
+}
+
+.create-user-container input {
+    padding: 4px;
+}
+
+.create-user-container label {
+    margin-top: 8px;
+}
+
